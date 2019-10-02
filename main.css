@@ -1,8 +1,9 @@
 body {
-  background-image: url("222.gif");
+  background-image: url("");
   max-width: 1200px;
   margin: 50px auto 50px auto;
-  color: #white;
+  color: #black;
+  style="front-size":"impact";
 }
 
 h1 {
@@ -21,14 +22,52 @@ h1 {
   box-shadow: 10px, 10px, 10px, grey;
 }
 
-.intro{
+.p{
   color:red;
 }
 
-.Reading {
+.Artiststatement1 {
   margin: 5px;
   padding: 5px;
   border: 5px;
-  border:solid 10px #000;
+  background-color: White;
+}
+
+.Artiststatement2 {
+  margin: 5px;
+  padding: 5px;
+  border: 5px;
+  background-color: White;
+  text-align: center;
+}
+
+.Question3 {
+  margin: 5px;
+  padding: 5px;
+  border: 5px red;
   background-color: white;
+  border:solid 10px #000;
+  text-align: center;
+}
+
+.Question4 {
+  margin: 5px;
+  padding: 5px;
+  border: 5px red;
+  background-color: white;
+  border:solid 10px #000;
+  text-align: center;
+}
+
+.Question5 {
+  margin: 5px;
+  padding: 5px;
+  border: 5px red;
+  background-color: white;
+  border:solid 10px #000;
+  text-align: center;
+}
+
+h1 {
+  text-shadow: 1px 1px 1px black;
 }
