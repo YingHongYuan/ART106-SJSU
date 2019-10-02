@@ -1,20 +1,22 @@
 body {
-  background-image: url("");
+  background-image: url("222.gif");
   max-width: 1200px;
   margin: 50px auto 50px auto;
   color: #black;
-  style="front-size":"impact";
+  background-color: grey;
+  text-align: center;
 }
 
 h1 {
-  color: Black;
+  color: white;
+  text-align: center;
 }
 
 .heading {
   padding: 20px auto;
   margin: 60px;
   text-align: center;
-  background-color: white;
+  background-color: grey;
 
 }
 
@@ -22,52 +24,11 @@ h1 {
   box-shadow: 10px, 10px, 10px, grey;
 }
 
-.p{
-  color:red;
-}
-
-.Artiststatement1 {
+.pet {
+  color:white;
   margin: 5px;
   padding: 5px;
   border: 5px;
-  background-color: White;
-}
-
-.Artiststatement2 {
-  margin: 5px;
-  padding: 5px;
-  border: 5px;
-  background-color: White;
+  background-color: grey;
   text-align: center;
-}
-
-.Question3 {
-  margin: 5px;
-  padding: 5px;
-  border: 5px red;
-  background-color: white;
-  border:solid 10px #000;
-  text-align: center;
-}
-
-.Question4 {
-  margin: 5px;
-  padding: 5px;
-  border: 5px red;
-  background-color: white;
-  border:solid 10px #000;
-  text-align: center;
-}
-
-.Question5 {
-  margin: 5px;
-  padding: 5px;
-  border: 5px red;
-  background-color: white;
-  border:solid 10px #000;
-  text-align: center;
-}
-
-h1 {
-  text-shadow: 1px 1px 1px black;
 }
