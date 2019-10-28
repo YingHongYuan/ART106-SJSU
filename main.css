@@ -24,7 +24,7 @@ h1 {
   box-shadow: 10px, 10px, 10px, grey;
 }
 
-.Document .button {
+.button {
   background-color: #4CAF50; /* Green */
   border: none;
   color: white;
